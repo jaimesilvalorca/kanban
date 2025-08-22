@@ -9,6 +9,7 @@ async function bootstrap() {
   //cambios por juan
   //sin cambios
   //rama sebastian
+  //ultimo cambio en sbc
 
   app.useGlobalPipes(
     new ValidationPipe({
