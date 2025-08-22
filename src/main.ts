@@ -7,6 +7,8 @@ async function bootstrap() {
 
   app.enableCors(),
   //cambios por juan
+  //sin cambios
+  //rama sebastian
 
   app.useGlobalPipes(
     new ValidationPipe({
