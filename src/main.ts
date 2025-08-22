@@ -8,7 +8,8 @@ async function bootstrap() {
   app.enableCors(),
   //app.enableCors(),
   //app.enableCors(),
-  //app.enableCors(),
+  ///app.enableCors(),
+  //cambio recien hecho
 
 
   app.useGlobalPipes(
